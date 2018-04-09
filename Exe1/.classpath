@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="esempi/" kind="src" path="exe1_Java_multithreading"/>
+	<classpathentry excluding="Interrupter.java|InterruptibleThread.java" kind="src" path="exe1_Java_multithreading/esempi"/>
+	<classpathentry kind="src" path="Exe1/src"/>
+	<classpathentry kind="output" path="Exe1/bin"/>
+</classpath>
