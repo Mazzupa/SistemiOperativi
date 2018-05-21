@@ -1,0 +1,9 @@
+1.	BAR. In uno stadio è presente un unico bar a disposizione di tutti i tifosi che assistono alle partite di calcio. 
+I tifosi sono suddivisi in due categorie: tifosi della squadra locale, e tifosi della squadra ospite. 
+Il bar ha una capacità massima NMAX, che esprime il numero massimo di persone (tifosi) che il bar può accogliere contemporaneamente. 
+Per motivi di sicurezza, nel bar non è consentita la presenza di tifosi di squadre opposte. 
+Nell’accesso al bar si dà la precedenza ai tifosi della squadra ospite.
+
+Il bar è gestito da un barista che può decidere di chiudere il bar in qualunque momento per effettuare la pulizia del locale. 
+Al termine dell’attività di pulizia, il bar verrà riaperto. Durante il periodo di chiusura a nessun cliente è consentito l’accesso al bar. 
+Nella fase di chiusura, potrebbero essere presenti alcune persone nel bar: in questo caso il barista attenderà l’uscita delle persone presenti nel bar, prima di procedere alla pulizia.
